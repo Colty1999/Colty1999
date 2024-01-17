@@ -3,15 +3,47 @@
 </h1>
 
 <p align='center'>
-  Fullstack developer from Poland.
+<img align="center" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+<img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Node.JS-75ae64?logo=nodedotjs&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Python-f6d64f?logo=python&logoColor=2f6694" />
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/mgietka/"><img src="./img/linkedin.svg" alt="Linkedin" width='25' fill="white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:mateuszgietka99@gmail.com"><img src="./img/envelope.svg" alt="Email" width='25'></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Colty1999&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+</p>
+<br>
+<p align='center'>
+  Fullstack developer from Poland.
 </p>
 
 
+<h2 align='center'>
+   Contact me
+</h2>
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/mgietka/"><img src="./img/linkedin.svg" alt="Linkedin" width='25' fill="white" align="center"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:mateuszgietka99@gmail.com"><img src="./img/envelope.svg" alt="Email" width='25' align="center"></a>
+</p>
+
+<h2 align='center'>
+   Resume
+</h2>
+<br>
+<p align='center'>
+  <a href="https://colty1999.github.io/MGietka_JSON_Resume/resume.html">https://colty1999.github.io/MGietka_JSON_Resume/resume.html</a>
+</p>
+
+<!--<table>
+  <tr>
+    <td valign="top"></td>
+    <td valign="top"></td>
+  </tr>
+</table>-->
+
+<!--<img src="https://github-readme-stats.vercel.app/api?username=Colty1999&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>-->
+<!--
 ## Education
 
 - 💻 **Computer Science**\
@@ -58,6 +90,8 @@ Thanks for scrolling 😀
   <img src="./img/meme.jpeg" alt="Linkedin" width='400'>
 </p>
 <br><br><br>
+
+-->
 
 <!--
 
