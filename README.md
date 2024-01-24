@@ -14,7 +14,7 @@
 </p>
 <br>
 <p align='center'>
-  Fullstack developer from Poland.
+  Aspiring fullstack developer from Poland.
 </p>
 
 
