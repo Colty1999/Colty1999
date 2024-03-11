@@ -27,13 +27,13 @@
   <a href="mailto:mateuszgietka99@gmail.com"><img src="./img/envelope.svg" alt="Email" width='25' align="center"></a>
 </p>
 
-<h2 align='center'>
+<!--<h2 align='center'>
    Resume
 </h2>
 <br>
 <p align='center'>
   <a href="https://colty1999.github.io/MGietka_JSON_Resume/resume.html">https://colty1999.github.io/MGietka_JSON_Resume/resume.html</a>
-</p>
+</p>-->
 
 <!--<table>
   <tr>
