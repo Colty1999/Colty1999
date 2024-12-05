@@ -14,7 +14,7 @@
 </p>
 <br>
 <p align='center'>
-  Aspiring fullstack developer from Poland.
+  Fullstack developer. Test automation engineer.
 </p>
 
 
