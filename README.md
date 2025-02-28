@@ -23,7 +23,7 @@
 </h2>
 
 <p align='center'>
-  <a href="https://www.mateuszgietkadev.com/"><img src="./img/www.svg" alt="Website" width='20' fill="white" align="center"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mateuszgietka.com/"><img src="./img/www.svg" alt="Website" width='20' fill="white" align="center"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mgietka/"><img src="./img/linkedin.svg" alt="Linkedin" width='25' fill="white" align="center"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mateuszgietka99@gmail.com"><img src="./img/envelope.svg" alt="Email" width='25' align="center"></a>
 </p>
