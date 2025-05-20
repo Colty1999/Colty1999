@@ -14,7 +14,7 @@
 </p>
 <br>
 <p align='center'>
-  Fullstack developer. Test automation engineer.
+  Software engineer.
 </p>
 
 
