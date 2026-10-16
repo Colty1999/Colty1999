@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  <img align="center" src="https://img.shields.io/badge/Auth0-f6d64f?logo=python&logoColor=2f6694" />
+  <img align="center" src="https://img.shields.io/badge/Auth0-f6d64f?logo=auth0&logoColor=b68cf0" />
   <img align="center" src="https://img.shields.io/badge/Python-f6d64f?logo=python&logoColor=2f6694" />
     <img align="center" src="https://img.shields.io/badge/Next.JS-000000?logo=nextdotjs" />
 <img align="center" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
